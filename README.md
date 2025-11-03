@@ -1,5 +1,6 @@
 # PAB for Ascension Bronzebeard/Malfurion.
 
+**->** Change the name of the folder from "PartyAbilityBars-Ascension-main" to "PAB" in order for the addon to work.
 **->** Adds a smart party CD tracker that you can anchor to your raid frames.<br>
 **->** /pab to open settings.
 
